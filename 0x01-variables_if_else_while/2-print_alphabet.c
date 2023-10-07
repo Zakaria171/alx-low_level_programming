@@ -6,12 +6,12 @@
  */
 int main(void)
 {
-	char alphabet[26] = {abcdefghijklmnopqrstuvwxyz};
+	char alphabet[26] = "abcdefghijklmnopqrstuvwxyz";
 	int i;
 
-	for (i = O ; i < 26 ; i++)
+	for (i == O ; i < 26 ; i++)
 	{
 		putchar(alphabet[i]);
 	}
-	Return (0);
+	return (0);
 }
