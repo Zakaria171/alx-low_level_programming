@@ -29,9 +29,6 @@ void times_table(void)
 			compt = compt + i;
 			}
 		}
-		if (i != 9)
-		{
-			_putchar('\n');
-		}
+		_putchar('\n');
 	}
 }
