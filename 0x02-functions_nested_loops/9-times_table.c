@@ -13,7 +13,7 @@ void times_table(void)
 		compt = 0;
 		for (j = 0 ; j < 10 ; j++)
 		{
-			if (compt > 10)
+			if (compt > 9)
 			{
 				_putchar((compt / 10) + '0');
 				_putchar((compt % 10) + '0');
