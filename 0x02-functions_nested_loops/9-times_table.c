@@ -30,6 +30,9 @@ void times_table(void)
 			compt = compt + i;
 			}
 		}
-		_putchar('\n');
+		if (i < 10)
+		{
+			_putchar('\n');
+		}
 	}
 }
