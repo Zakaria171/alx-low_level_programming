@@ -1,5 +1,5 @@
 #ifndef DOG_H
-#define FOG_H
+#define DOG_H
 /**
  * struct dog - dog's informations
  * @name: first member
