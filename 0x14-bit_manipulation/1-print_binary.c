@@ -24,7 +24,7 @@ unsigned long int _pow(unsigned int base, unsigned int power)
  */
 void print_binary(unsigned long int n)
 {
-	unsigned int div, check;
+	unsigned long int div, check;
 	char b;
 
 	b = 0;
